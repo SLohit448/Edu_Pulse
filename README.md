@@ -10,6 +10,10 @@ EduPulse helps educators understand student confusion as it happens—without fo
 
 ---
 
+The demo database is currently offline. Follow the setup steps below to run it with your own Supabase project.
+
+---
+
 ## 📋 Table of Contents
 
 - [About](#about)
