@@ -219,6 +219,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## Team
+
+Built by Kuldeep Prasad Mishra,Simma Lohit and team
+
+---
+
 ## 📞 Contact
 
 **Project Maintainer**: Kuldeep Mishra
